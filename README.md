@@ -2,7 +2,7 @@
 
 ### I am a beginner developer.
 
-<div align="center" id="social">
+<div id="social">
   <a href="https://t.me/overlang">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>

@@ -18,6 +18,7 @@
 - Learning java
 - :guitar: Rock music
 - :sushi: Sushi:)
+- :palme: Love palms
 
 <h2> Skills:</h2>
 <a href= https://github.com/overlang-egor?tab=repositories&q=&type=&language=android&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>

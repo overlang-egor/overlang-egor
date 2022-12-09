@@ -1,6 +1,6 @@
 ## Hello! I,m overlang or just Egor.
 
-### I am a beginner developer. topics/android/android.png
+### I am a beginner developer.
 
 <div align="center" id="social">
   <a href="https://t.me/overlang">

@@ -25,4 +25,5 @@
 <a href= https://github.com/overlang-egor?tab=repositories&q=&type=&language=git&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/overlang-egor?tab=repositories&q=&type=&language=bash&sort= > <img width ='30px' src
 ='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png'> </a>
-
+<a href= https://github.com/overlang-egor?tab=repositories&q=&type=&language=linux&sort= > <img width ='30px' src
+='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png'> </a>

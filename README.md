@@ -16,8 +16,8 @@
 - Love Android ROM development
 - BlissROM Official Maintainer for Redmi Note 8 Pro
 - Learning java
-- :guitar: Rock music
-- :sushi: Sushi:)
+- :guitar: Like Rock music
+- :sushi:  Love Sushi:)
 
 <h2> Skills:</h2>
 <a href= https://github.com/overlang-egor?tab=repositories&q=&type=&language=android&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
